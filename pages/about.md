@@ -18,6 +18,9 @@ This is a test to see if this text will appear in the correct location. The goal
 - Add images to break up the text in this section
 - Provide an in-depth description of the project
 
+## Link to Database
+- Include a link to enslaved.org database & description?
+
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
